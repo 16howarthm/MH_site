@@ -35,7 +35,8 @@ defaults:
       path: "assets/img"
     values:
       image: true
-
+      
+remote_theme: christianezeani/panthera-jekyll
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
